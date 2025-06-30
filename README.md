@@ -26,32 +26,33 @@ I am a senior undergraduate student majoring in Computer Science, Artificial Int
 ## 🛠 Tech Stack
 
 ### Deep Learning
-- **PyTorch**: Built CNNs (ResNet, YOLO, SSD) for object detection and image classification; fine-tuned Vision Transformers (ViT) for CIFAR-100.
-- **Hugging Face**: Fine-tuned BERT for sentiment analysis on IMDB dataset.
+- **PyTorch**: Built CNNs (ResNet, YOLO, SSD) for object detection and classification; fine-tuned Vision Transformers (ViT)
+- **Hugging Face**: Fine-tuned BERT for sentiment analysis on IMDB dataset
 
 ### Machine Learning
-- **scikit-learn**: Built ensemble models (Random Forest, Gradient Boosting) with GridSearchCV for Kaggle tasks.
-- **Statsmodels**: Used log-transformed regression for time-series forecasting.
+- **scikit-learn**: Built ensemble models (Random Forest, Gradient Boosting) with GridSearchCV for Kaggle tasks
+- **Statsmodels**: Used log-transformed regression for time-series forecasting
 
 ### Computer Vision & Augmentation
-- **OpenCV**: Preprocessed images (edge detection, resizing) and applied augmentation.
-- **CutMix**: Enhanced image classification robustness with CutMix.
+- **OpenCV**: Preprocessed images (edge detection, resizing) and applied augmentation
+- **CutMix**: Enhanced image classification robustness with CutMix
 
 ### Data Processing & Visualization
-- **Pandas**: Wrangled data and engineered features for ML pipelines.
-- **NumPy**: Optimized numerical operations.
-- **Matplotlib**: Visualized data and model metrics (loss curves, confusion matrices).
+- **Pandas**: Wrangled data and engineered features for ML pipelines
+- **NumPy**: Optimized numerical operations
+- **Matplotlib**: Visualized data and model metrics (loss curves, confusion matrices)
 
 ### Databases & Development
-- **MySQL**: Designed and queried databases, integrated with VSCode.
-- **VSCode & CLion**: Developed Python and C++ projects with debugging.
+- **MySQL**: Designed and queried databases, integrated with VSCode
+- **VSCode & CLion**: Developed Python and C++ projects with debugging
 
 ### Tools & Environments
-- **Git**: Managed version control for projects.
-- **Jupyter Notebook**: Prototyped ML models interactively.
-- **Google Colab**: Trained models with GPU support.
-- **TensorBoard**: Visualized training metrics.
-- **Linux**: Automated tasks with bash scripting.
+- **Git**: Managed version control for projects
+- **Jupyter Notebook**: Prototyped ML models interactively
+- **Google Colab**: Trained models with GPU support
+- **TensorBoard**: Visualized training metrics
+- **Linux**: Automated tasks with bash scripting
+
 
 ---
 
