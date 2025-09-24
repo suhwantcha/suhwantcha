@@ -45,7 +45,7 @@ int main() {
 
 ## 🛠️ Tech Stack & Skills
 
-Languages
+**Languages**
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -54,26 +54,26 @@ Languages
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-Deep Learning
+**Deep Learning**
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD133?style=flat-square&logo=Hugging%20Face&logoColor=black" />
 </p>
 
-Machine Learning
+**Machine Learning**
 <p>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Statsmodels-4A235A?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-Computer Vision & Augmentation
+**Computer Vision & Augmentation**
 <p>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/CutMix-FF5722?style=flat-square&logoColor=white" />
 </p>
 
-Data Processing & Visualization
+**Data Processing & Visualization**
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -81,14 +81,14 @@ Data Processing & Visualization
 <img src="https://img.shields.io/badge/Seaborn-3B7588?style=flat-square&logo=seaborn&logoColor=white" />
 </p>
 
-Databases & Development
+**Databases & Development**
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/CLion-1572B6?style=flat-square&logo=clion&logoColor=white" />
 </p>
 
-Tools & Environments
+**Tools & Environments**
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
@@ -97,7 +97,7 @@ Tools & Environments
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-Productivity & Office Tools
+**Productivity & Office Tools**
 <p>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=powerpoint&logoColor=white" />
@@ -106,7 +106,7 @@ Productivity & Office Tools
 
 -----
 
-### 🌐 Links
+### 🔗 Links
 
   * **Blog**: [blog.naver.com/dndoehrk11](https://www.google.com/search?q=https://blog.naver.com/dndoehrk11)
   * **Email**: dndoehrk11@gmail.com
