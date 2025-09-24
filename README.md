@@ -19,9 +19,20 @@ B.A. in Information and Communication Engineering
 #include <stdio.h>
 
 int main() {
-    char* alias[] = {"Suhwan Tcha", "Su"};
-    char* major[] = {"Computer Science", "Artificial Intelligence", "Business"};
-    char* interests[] = {"Computer Vision", "Recommender Systems", "Data Science", "Multimodal", "Applied Machine Learning", "Trustworthy and safe Large Language Models"};
+    // About Me
+    char* alias = "Suhwan Tcha";
+    char* affiliation = "Sogang University";
+    char* majors[] = {"Computer Science", "Artificial Intelligence", "Business"};
+    char* pronouns = "He/Him";
+
+    // Interests & Expertise
+    char* interests[] = {"Computer Vision", "Recommender Systems", "Data Science", "Applied Machine Learning", "Trustworthy and safe Large Language Models", "Multimodal"};
+    char* languages[] = {"C", "C++", "Python", "R"};
+    char* frameworks[] = {"PyTorch", "TensorFlow", "scikit-learn", "Hugging Face"};
+    char* tools[] = {"Git", "Jupyter", "VS Code", "MySQL", "Linux"};
+
+    // Current Status
+    char* learning[] = {"Advanced Deep Learning architectures", "Reinforcement Learning", "Multimodal RAG", "Large-scale data processing"};
     char* funFact = "I'm always looking for new ways to solve problems with data!";
    return 0;
 }
@@ -34,9 +45,18 @@ int main() {
 
 ## 🛠️ Tech Stack & Skills
 
+Languages
+<p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+</p>
+
 Deep Learning
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD133?style=flat-square&logo=Hugging%20Face&logoColor=black" />
 </p>
 
@@ -74,6 +94,13 @@ Tools & Environments
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorBoard-5F5968?style=flat-square&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+Productivity & Office Tools
+<p>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=powerpoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 </p>
 
 -----
