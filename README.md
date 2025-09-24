@@ -27,7 +27,7 @@ int main() {
 
     // Interests & Expertise
     char* interests[] = {"Computer Vision", "Recommender Systems", "Data Science", "Applied Machine Learning", "Trustworthy and safe Large Language Models", "Multimodal"};
-    char* languages[] = {"C", "C++", "Python", "R"};
+    char* languages[] = {"Python", "C/C++",  "R", "SQL"};
     char* frameworks[] = {"PyTorch", "TensorFlow", "scikit-learn", "Hugging Face"};
     char* tools[] = {"Git", "Jupyter", "VS Code", "MySQL", "Linux"};
 
@@ -51,6 +51,7 @@ Languages
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 Deep Learning
