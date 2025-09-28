@@ -8,7 +8,7 @@ I am a senior undergraduate student majoring in Computer Science, Artificial Int
 ### 🎓 Education
 
 * **Sogang University (2024 – Present)**
-B.S. in Computer Science and Engineering & Big Data (Interdisciplinary Program)
+B.S. in Computer Science and Engineering & Big Data 
 
 * **Hankuk University of Foreign Studies (2020 – 2023)**
 B.S. in Information and Communication Engineering
