@@ -108,5 +108,5 @@ int main() {
 
 ### 🔗 Links
 
-  * **Blog**: [blog.naver.com/dndoehrk11](https://www.google.com/search?q=https://blog.naver.com/dndoehrk11)
+  * **Blog**: [blog.naver.com/dndoehrk11](https://blog.naver.com/dndoehrk11)
   * **Email**: dndoehrk11@gmail.com
