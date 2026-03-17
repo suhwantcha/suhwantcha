@@ -2,16 +2,21 @@
 
 ### 😎 Hi, I'm Suhwan Tcha
 
-I am a senior undergraduate student majoring in Computer Science, Artificial Intelligence, and Business. I’m passionate about machine learning, computer vision, and data-driven problem solving. 
+I am a senior undergraduate student at Sogang University, passionate about computer vision and multimodal learning.  
+I am particularly interested in building trustworthy and human-like AI systems for real-world applications.
 
 
 ### 🎓 Education
 
 * **Sogang University (2024 – Present)**
-B.S. in Computer Science and Engineering & Big Data 
+B.S. in Computer Science and Engineering 
 
 * **Hankuk University of Foreign Studies (2020 – 2023)**
 B.S. in Information and Communication Engineering
+
+### 📌 Current Projects
+- Multimodal Video-to-Audio Description (LVLM-based)
+- Chest X-ray Multi-Disease Detection (CXR-CAD)
 
 ### 🧑‍💻 A little more about me...
 
@@ -26,10 +31,10 @@ int main() {
     char* pronouns = "He/Him";
 
     // Interests & Expertise
-    char* interests[] = {"Computer Vision", "Recommender Systems", "Data Science", "Applied Machine Learning", "Trustworthy and safe Large Language Models", "Multimodal"};
+    char* interests[] = {"Computer Vision", "Multimodal Learning", "Trustworthy AI", "Vision-Language Models", "Data-Centric Machine Learning"};
     char* languages[] = {"Python", "C/C++",  "R", "SQL"};
     char* frameworks[] = {"PyTorch", "TensorFlow", "scikit-learn", "Hugging Face"};
-    char* tools[] = {"Git", "Jupyter", "VS Code", "MySQL", "Linux"};
+    char* tools[] = {"Git", "Jupyter", "VS Code", "MySQL", "Linux", "Antigravity"};
 
     // Current Status
     char* learning[] = {"Advanced Deep Learning architectures", "Reinforcement Learning", "Multimodal RAG", "Large-scale data processing"};
