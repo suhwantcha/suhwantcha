@@ -10,7 +10,7 @@ B.S. in Computer Science and Engineering
 - Vision-Language Models
 
 ### Current Projects
-- Multimodal Video-to-Audio Description (LVLM)
+- Multimodal Video-to-Audio Description (V2A)
 - Chest X-ray Multi-Disease Detection (CXR-CAD)
 
 ### Tech Stack
